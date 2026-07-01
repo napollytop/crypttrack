@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue_link">#2196F3</color>
+
+    <!-- Dark Theme Palette based on Screenshot -->
+    <color name="primary">#00D09E</color> <!-- Vibrant Teal/Green -->
+    <color name="primary_variant">#00A881</color>
+    <color name="secondary">#00D09E</color>
+    <color name="background">#0B0E11</color> <!-- Deep Dark Background -->
+    <color name="surface">#181C21</color> <!-- Darker Gray for Cards/Surfaces -->
+    <color name="on_surface">#FFFFFF</color>
+    <color name="error">#F6465D</color> <!-- Crypto Red -->
+
+    <color name="crypto_green">#00D09E</color>
+    <color name="crypto_red">#F6465D</color>
+    <color name="crypto_gray">#848E9C</color> <!-- Dimmer Text -->
+    <color name="crypto_dark">#0B0E11</color>
+
+    <color name="card_bg">#181C21</color>
+    <color name="divider">#2B3139</color>
+</resources>
